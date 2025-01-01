@@ -10,7 +10,7 @@ It was designed to rectify the compiler's problems as long programs might take h
 
 Languages which use an interpreter are called Interpreted Languages. Examples include Python, Javascript, Ruby etc.
 
-Also see [Complier vs Interpreter](/Resources/Differences.md#complier-vs-interpreter)
+Also see [Complier vs Interpreter](/python/Resources/Differences.md#complier-vs-interpreter)
 
 ### Compiler
 
@@ -22,4 +22,4 @@ Penultimate step is where the code is actually converted into machine code befor
 
 Languages which use a compiler are called Complied Languages. Examples include C#,  C++, Rust, Java etc.
 
-Also see [Complier vs Interpreter](/Resources/Differences.md#complier-vs-interpreter)
+Also see [Complier vs Interpreter](/python/Resources/Differences.md#complier-vs-interpreter)
